@@ -19,9 +19,8 @@
 ## Project info
 
 ## Dataset info
-Name: Online Retail II  
-Link: https://archive.ics.uci.edu/ml/machine-learning-databases/00502/   
-You can download it from the link, it is bigger than 25MB, therefore couldn't upload here.
+Name: TCGA_PAM50.csv
+Link: 
 **InvoiceNo:** Invoice number.
 
 ## Technologies
