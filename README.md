@@ -1,7 +1,7 @@
 # Breast Cancer Prediction
 
 <p align="center">
-	<img src="  " />
+	<img src=" https://breast.predict.nhs.uk/assets/icon-imagery.png" />
 
 </p>
 
@@ -31,7 +31,7 @@ Project is created with:
 
 	
 ## Setup
-To run this project, just run the functions at the bottom of code and call "item_based_recommender". That's it!
+
 
 ## Developments 
 
