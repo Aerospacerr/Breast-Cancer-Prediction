@@ -1,7 +1,7 @@
 # Breast Cancer Prediction
 
 <p align="center">
-	<img src=" https://breast.predict.nhs.uk/assets/icon-imagery.png" />
+	<img src="https://breast.predict.nhs.uk/assets/icon-imagery.png" />
 
 </p>
 
