@@ -1,4 +1,4 @@
-# Item Based Collaborative Movie Recommendation System
+# Breast Cancer Prediction
 
 <p align="center">
 	<img src="  " />
